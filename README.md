@@ -1,9 +1,9 @@
 ![Panopticon](panopticon.jpg)
 
-Panopticon v2 – Jan 2014
+Panopticon Game BEESECURE V1 – March 2016
 ========================
 
-Last updated by Maf'j Alvarez on February 17th 2014
+Last updated by Chris Pinchen on March 28th 2016
 
 [This game is under creative commons attribution, share-alike licence](http://creativecommons.org/licenses/by-sa/4.0/)
 
