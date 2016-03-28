@@ -3,7 +3,7 @@
 Panopticon Game BEESECURE V1 – March 2016
 ========================
 
-Last updated by Chris Pinchen on March 28th 2016
+Last updated by Chris Pinchen on March 28th, 2016
 
 [This game is under creative commons attribution, share-alike licence](http://creativecommons.org/licenses/by-sa/4.0/)
 
