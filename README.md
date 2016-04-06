@@ -49,7 +49,7 @@ Choosing your data
 ------------------
 
 In turn – pick 10 coloured data pieces without looking from the bag of bits. As you draw out the bits – put them on the board in the following circles within your range – your field of vision.
-* first ring: 1 bits 
+* first ring: 1 bit
 * second ring: 2 bits 
 * third ring: 3 bits 
 * fourth ring: 4 bits 
@@ -122,7 +122,7 @@ Mission: To build 5 block with another player who’s mission is also to get 5 b
 
 **Student**
 
-Mission: Mission: To build 5 block with another player who also gets 5 blocks 
+Mission: To build 5 block with another player who also gets 5 blocks 
 3 ability cards: Move 2 data blocks from anywhere in the board to new locations (play on your turn) 
 
 Power ups
