@@ -21,7 +21,7 @@ You will need the following items for the game:
 
 3 – 6 players 
 
-A circular panopticon board 
+A panopticon board 
 
 Spinner – made up of 6 colour positions 
 
@@ -33,7 +33,7 @@ Power up handhelds ( put list here)
 
 Per player:
 -----------
-* 1 lego mini figure 
+* 1 mini figure 
 * 1 identity crystal 
 * 6 personal data blocks (1×2 bricks) 
 * base board (min 8 x 10 lego board) 
@@ -41,7 +41,7 @@ Per player:
 
 Preparing the board
 -------------------
-Depending on the number of players – draw or otherwise mark equal ‘ranges’ from the middle to the edge of the board so that each player has an equal slice of the board.Put all the power up tools in the middle of the board and the spinner on the side of the board. Each player takes one player mission card without telling anyone what the mission is.
+Put all the power up tools in the middle of the board and the spinner on the side of the board. Each player takes one player mission card without telling anyone what the mission is.
 
 Players prepare their Panopticon bases. Each player takes a base board, picks a mini figure in turn and 3 ability cards. Take 6 personal data blocks and arrange them into a defensive wall in front of your identity crystal. Put your mini-figure and put it in front of the wall. Put your base board in the centre of the board so that your character faces outwards
 
@@ -85,12 +85,12 @@ Aquiring a tower
 
 If someone gives you control of their data and figure – you need to put the tower blocks and personal data on your own board either on top of your own tower or beside it. You can rearrange your board however you want at this point. From now on you have 2 turns every spin – one for each minifigure.
 
-* Blue (water) = money 
-* Red (fire) = downloads/consumer products 
-* Green (earth) = social media 
-* Yellow (tech) = software and tools 
-* Black (undead) = black/grey market 
-* White (air) = information 
+* Blue    = money 
+* Red     = downloads/consumer products 
+* Green   = social media 
+* Yellow  = software and tools 
+* Black   = black/grey market 
+* White   = information 
 
 Player Missions
 ===============
