@@ -2,127 +2,233 @@ BEE SECURE Panopticon Version 2 - October 2016
 
 About 
 
-BEE SECURE‘s Panopticon is a strategy board game based on the topic of “Internet security”. As Luxemburg`s national information security competence and excellence centre, BEE SECURE raises awareness for a safe usage of ICT and combines expertise from didactic approaches in non-formal as well as formal education. Thus, this board game is equally suitable as group activity as well as in the classroom.
-Different questions concerning data protection, data control, roles people play and on means of self-protection are raised in a playful context. How can I protect my personal data? Is someone try to steal my identity? How deep is my (in)sight into the online world? What is my perspective? How can I retain control over my data?
-The game can be played with 3-6 players and takes approximately 1 hour. Each player is on a secret mission which is to be accomplished. Good strategies, ranging from cooperation (e.g. “Activist”) to deception (e.g. “Bad hacker”) are needed to accomplish the mission in order to win the game.
+BEE SECURE‘s Panopticon is a strategy board game based on the topic of “Internet security”.
+
+As Luxemburg`s national information security competence and excellence centre, BEE SECURE raises awareness for a safe usage of ICT and combines expertise from didactic approaches in non-formal as well as formal education.
+
+Thus, this board game is equally suitable as group activity as well as in the classroom.
+
+Different questions concerning data protection, data control, roles people play and on means of self-protection are raised in a playful context. How can I protect my personal data?
+
+Is someone try to steal my identity? How deep is my (in)sight into the online world? What is my perspective? How can I retain control over my data?
+
+The game can be played with 3-6 players and takes approximately 1 hour.
+
+Each player is on a secret mission which is to be accomplished. Good strategies, ranging from cooperation (e.g. “Activist”) to deception (e.g. “Bad hacker”) are needed to accomplish the mission in order to win the game.
+
 Panopticon is an exciting (Offline) board game, which can be used to foster general internet and media competences and security-oriented online behavior.
+
 Have fun! :) 
 
 Description
-Play Panopticon and become a data controller! Build your data empire, the tallest tower from which to view the entire internet and control how content and personal data moves. You may have good intentions, or bad ones. Behind the virtual air we breathe are the people who control us – the battle for data and people’s very identities is being fought. What will YOU choose to do?
+
+Play Panopticon and become a data controller!
+
+Build your data empire, the tallest tower from which to view the entire internet and control how content and personal data moves. You may have good intentions, or bad ones. Behind the virtual air we breathe are the people who control us – the battle for data and people’s very identities is being fought. What will YOU choose to do?
 
 Game for 3-6 (or more, playing as teams) players. 
 
 Setting up
+
 You will need the following items for the game:
+
 3-6 players 
+
 A panopticon board 
+
 1 dice 
+
 Power up handhelds: Spanner, Feather, Camera, Binoculars, Dragon's Fire, Megaphone
+
 10 coloured LEGO bricks 2×2 per player in a bag 
-6 Player mission cards: bad hacker, good hacker, trojan, anti-virus, activist, NGO  
+
+6 Player mission cards:
+bad hacker, good hacker, trojan, anti-virus, activist, NGO 
+
 Per player:
+
 1 LEGO mini figure 
+
 1 identity crystal 
+
 6 personal data blocks (LEGO bricks 1×2) 
+
 base board  
+
 3 ability pieces (single square transparent cylinders)
+
 1 mission card
 
+
 Preparing the board
+
 Take all of the pieces, except the coloured data pieces out of the bag. Connect the base boards and put them in the centre of the playing board as shown in figure 1. Put all the power up tools in the middle of the board. Each player takes one player mission card without telling anyone what the mission is.
+
 Players prepare their Panopticon bases. Each player picks a mini figure in turn and 3 ability pieces. Take 6 personal data blocks and arrange them into a defensive wall in front of your identity crystal on your base board. Put your mini-figure in front of the wall.
 
  
-Figure 1 - board layout
+
 Choosing your data
-In turn – pick 10 coloured data pieces without looking from the bag of bits. As you draw out the bits – put them on the board in the following circles within your range – your field of vision. (See Figure 2) 
+
+In turn – pick 10 coloured data pieces without looking from the bag of bits. As you draw out the bits – put them on the board in the following circles within your range – your field of vision. 
+
 first ring: 	1 bits 
+
 second ring:	2 bits 
+
 third ring:	3 bits 
+
 fourth ring:	4 bits
 
 
-Blue	=  money 
+Blue	=  money
+
 Red	=  downloads/consumer products 
+
 Green	=  social media 
+
 Yellow	=  software and tools 
+
 Black	=  black/grey market 
+
 White	=  information 
 
 
-Figure 2 – board layout with bits
-
 Game play
+
 Start of play
+
 Youngest player takes the first turn.
+
 Throw the dice. You need to ‘get’ a block of that colour from the board. You can only look inside your own range at the first circle. If you have that colour – take it &  put it on your base board & put your mini-figure on top of it. This is the start of your Panopticon tower.
+
 Your vision with 1 block on your tower now extends to the second circle within your range.
+
 If you don’t have the right colour and someone else does – you can make a deal. Ask the player with your coloured block in their first circle to give you theirs. The player you ask can give it to you for free, trade theirs for yours or can ask you for a personal data block for it.
+
 If no player has that colour – move onto the next player to your left. Repeat as before.
+
 After throwing the dice, you can choose to play one of your ability pieces instead of taking a colour block or making a trade. 
 If you tower gets 2 blocks tall your vision now extends to the third circle. With 3 blocks it extends to 4th (last) circle. Put your mini figure on top as you get taller. You must put your blocks in the order that you get them.
+
 Leaving the game / loosing control
+
 You can leave the game – or give over control of everything you have if your tower collapses or you choose to knock it down. You must then select which player to give your tower, mini-figure, personal data & id crystals to. If you choose you can stay involved in the game by commenting and making ‘helpful’ suggestions to other players.
+
 If your ID crystal is stolen you carry on playing but are controlled by the thief until end of game or until someone returns it to you.
 
+
 Acquiring a tower
+
 If someone gives you control of their data & figure – you need to put the tower blocks & personal data on your own board either on top of your own tower or beside it. You can rearrange your board however you want at this point. Now you have 2 turns every dice throw – one for each mini-figure.
 
 Winning the game
+
 The winner of the game is the person who reaches their mission first.
 
 Player Missions
+
 Bad Hacker
+
 Mission: Steal 2 identity crystals or be first to build a 10 block tower  
+
 3 ability pieces: Take 1 personal data block from another player. 
+
+
 Good Hacker
+
 Mission: Be first to build 10 block tower or wining back 1 stolen id crystal 
-3 ability pieces: can take back stolen personal data, and return it to their rightful owner (Sabotages Bad Hacker from winning). 
+
+3 ability pieces: can take back stolen personal data, and return it to their rightful owner (Sabotages Bad Hacker from winning).
+
+
 Anti-Virus
+
 Mission: Stop data theft and build 10 block tower 
+
 3 ability pieces: Prevent a personal data block attack (can play at any time) 
+
+
 Trojan
+
 Mission: Steal 2 identity crystals or be first to build 10 block tower. 
+
 3 ability pieces: when a personal data block is taken by a player – you take one too (can play at any time) 
+
+
 Activist
+
 Mission: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
+
 3 ability pieces: Take control of bad hacker for 1 turn (play on your turn) 
+
+
 NGO
+
 Mission: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
+
 3 ability pieces: Move 2 data blocks from anywhere in the board to new locations (play on your turn) 
 
+
 Power ups
+
 Get 3 blocks together of the same colour or 1 block of each colour together (6 in total) and you can power up – choose a power-up tool from the centre of the board and put it in the hands of your mini figure. You can use it on your next turn or on any other turn you choose.
+
 Each power up can only be used 2 times – then it is returned to centre of board. Power ups have the following powers:
+
 Spanner – Rearrange your structure for power up advantage 
+
 Feather – for diplomatic purposes. Take back 2 personal data blocks and redistribute 
+
 Camera – allows you to take 1 personal data from each player (play on your turn) 
+
 Binoculars – takes 1 coloured data block from 2 players (play on your turn) 
+
 Dragon's Fire – protects you from a player who wants to take your data (play any time) 
+
 Megaphone – take control of 1 player for 1 round (play on your turn) 
+
+
 Super power ups
+
 for 5 blocks of the same colour in row: 
+
 Slave – steal Identity crystal and take control of one player 
+
 for 4 blocks of same colour in row:
+
 Rescue – steal back a stolen ID crystal from another player (can be used once, at any time)
 
+
 Credits
+
 BEE SECURE Panopticon game version developed & produced by Chris Pinchen
+
 Thanks to Ana Fernandez Mora, Ishmael Pinchen Fernandez, Debbie Plein, Michelle Schlechter, Raphael Vinot for their contributions
+
 Special thanks to our fantastic testers: Henri Ahola, Sara Ahola, Sarah Brink, Elena Da Silva, Jennifer Gomes, Daria Gospodinova, Ishmael Pinchen Fernandez, Telma Ribeiro Alves
+
 Panopticon game originally conceived by Maf'j Alvarez & Chris Pinchen
+
 Mission cards and player descriptions by Natalie Kane https://ndkane.com/
+
 Board and box design implementation by Ruben Lopez
+
 More information http://panopticongame.lu       Contact: chris@chrispinchen.lu
+
+
 License
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
 WARNING!
+
 CHOKING HAZARD.
+
 Game contains small parts. Not for children under 3 years old.
+
+
 
 BEE SECURE Panopticon
 Worum geht‘s?
