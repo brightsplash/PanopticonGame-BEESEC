@@ -141,35 +141,35 @@ The winner of the game is the person who reaches their mission first.
 
 **Good Hacker**
 
-Mission: Be first to build 10 block tower or wining back 1 stolen id crystal 
+**Mission**: Be first to build 10 block tower or wining back 1 stolen id crystal 
 
 3 ability pieces: can take back stolen personal data, and return it to their rightful owner (Sabotages Bad Hacker from winning).
 
 
-Anti-Virus
+**Anti-Virus**
 
-Mission: Stop data theft and build 10 block tower 
+**Mission**: Stop data theft and build 10 block tower 
 
 3 ability pieces: Prevent a personal data block attack (can play at any time) 
 
 
-Trojan
+**Trojan**
 
-Mission: Steal 2 identity crystals or be first to build 10 block tower. 
+**Mission**: Steal 2 identity crystals or be first to build 10 block tower. 
 
 3 ability pieces: when a personal data block is taken by a player – you take one too (can play at any time) 
 
 
-Activist
+**Activist**
 
-Mission: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
+**Mission**: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
 
 3 ability pieces: Take control of bad hacker for 1 turn (play on your turn) 
 
 
-NGO
+**NGO**
 
-Mission: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
+**Mission**: To build 8 block tower with another player who also gets 8 block tower or 10 block tower
 
 3 ability pieces: Move 2 data blocks from anywhere in the board to new locations (play on your turn) 
 
@@ -178,30 +178,30 @@ Mission: To build 8 block tower with another player who also gets 8 block tower 
 
 Get 3 blocks together of the same colour or 1 block of each colour together (6 in total) and you can power up – choose a power-up tool from the centre of the board and put it in the hands of your mini figure. You can use it on your next turn or on any other turn you choose.
 
-Each power up can only be used 2 times – then it is returned to centre of board. Power ups have the following powers:
+Each power up can only be used **2 times** – then it is returned to centre of board. Power ups have the following powers:
 
-Spanner – Rearrange your structure for power up advantage 
+**Spanner** – Rearrange your structure for power up advantage 
 
-Feather – for diplomatic purposes. Take back 2 personal data blocks and redistribute 
+**Feather** – for diplomatic purposes. Take back 2 personal data blocks and redistribute 
 
-Camera – allows you to take 1 personal data from each player (play on your turn) 
+**Camera** – allows you to take 1 personal data from each player (play on your turn) 
 
-Binoculars – takes 1 coloured data block from 2 players (play on your turn) 
+**Binoculars** – takes 1 coloured data block from 2 players (play on your turn) 
 
-Dragon's Fire – protects you from a player who wants to take your data (play any time) 
+**Dragon's Fire** – protects you from a player who wants to take your data (play any time) 
 
-Megaphone – take control of 1 player for 1 round (play on your turn) 
+**Megaphone** – take control of 1 player for 1 round (play on your turn) 
 
 
 ## Super power ups
 
 for 5 blocks of the same colour in row: 
 
-Slave – steal Identity crystal and take control of one player 
+**Slave** – steal Identity crystal and take control of one player 
 
 for 4 blocks of same colour in row:
 
-Rescue – steal back a stolen ID crystal from another player (can be used once, at any time)
+**Rescue** – steal back a stolen ID crystal from another player (can be used once, at any time)
 
 
 ## Credits
