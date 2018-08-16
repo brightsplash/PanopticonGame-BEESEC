@@ -3,7 +3,7 @@ BEE SECURE Panopticon Version 2 - October 2016
 
 ## About 
 
-BEE SECURE‘s Panopticon is a strategy board game based on the topic of “Internet security”.
+**BEE SECURE‘s Panopticon is a strategy board game based on the topic of “Internet security”.**
 
 As Luxembourg`s national information security competence and excellence centre, BEE SECURE raises awareness for a safe usage of ICT and combines expertise from didactic approaches in non-formal as well as formal education.
 
@@ -132,14 +132,14 @@ The winner of the game is the person who reaches their mission first.
 
 ## Player Missions
 
-Bad Hacker
+**Bad Hacker** 
 
-Mission: Steal 2 identity crystals or be first to build a 10 block tower  
+**Mission**: Steal 2 identity crystals or be first to build a 10 block tower  
 
 3 ability pieces: Take 1 personal data block from another player. 
 
 
-Good Hacker
+**Good Hacker**
 
 Mission: Be first to build 10 block tower or wining back 1 stolen id crystal 
 
